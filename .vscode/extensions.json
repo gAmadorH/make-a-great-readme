@@ -2,6 +2,7 @@
   "recommendations": [
     "davidanson.vscode-markdownlint",
     "editorconfig.editorconfig",
+    "shd101wyy.markdown-preview-enhanced",
     "streetsidesoftware.code-spell-checker"
   ]
 }
